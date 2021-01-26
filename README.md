@@ -2,7 +2,7 @@
 This is a simple Todo list web application created with [Express](https://expressjs.com/), [Node.JS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/). 
 The project will look as:
 
-![Todo list site](./Todolist)
+![Todo list site](./Todolist.JPG)
 
 ## How to start it
 
