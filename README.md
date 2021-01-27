@@ -1,5 +1,5 @@
 # Todo list
-This is a simple Todo list web application created with [Express](https://expressjs.com/), [Node.JS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/). 
+This is a simple Todo list web application created with [Express](https://expressjs.com/), [Node.JS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/). This project was created when I was taking the course [**The Complete 2021 Web Development Bootcamp**](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 The project will look as:
 
 ![Todo list site](./Todolist.JPG)
